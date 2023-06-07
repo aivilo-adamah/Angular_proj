@@ -1,0 +1,35 @@
+
+header {
+    width: 100%;
+    height: 80px;
+    padding: 26px 0;
+    background: #111111;
+}
+
+header .row {
+    text-align: center;
+}
+
+header .social-icons a {
+    color: #0072bc;
+    font-size: 20px;
+    margin-left: 12px;
+}
+
+header p {
+    float: left;
+    opacity: 0.5;
+    color: #ffffff;
+    letter-spacing: 2px
+}
+
+header .social-icons {
+    float: right;
+}
+
+header p {
+    text-align: center;
+}
+header .social-icons {
+    float: center;
+}

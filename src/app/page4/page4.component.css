@@ -1,0 +1,42 @@
+#couleur{
+    
+    background-color:#00FA9A;
+}
+
+#deta{
+    color: white;
+}
+
+#dos{
+background-color:#FFD700;
+}
+
+#dos6{
+    background-color:#7CFC00;
+    }
+
+#dos7{
+    background-color:#FF00FF;
+        }
+
+
+
+ #dos8{
+     background-color:#FF8C00	;
+            }
+            
+#dos9{
+      background-color:#87CEFA;
+                }
+
+.ecriture{
+    color: #FF8C00;
+    text-justify: auto;
+    text-transform: capitalize;
+    font-family: "Helvetica Neue", "Arial",  sans-serif;
+}
+
+.ecrit{
+    color:#FF00FF;
+    font-family:"Times New Roman",Serif;
+}
